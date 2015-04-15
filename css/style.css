@@ -175,3 +175,78 @@
   padding: 0px!important;
 }
 
+
+/*----------------------------------------NEWSFEED SECTION-------------------------------------*/
+.add-post{
+  padding: 20px 0px!important;
+}
+
+#active-news{
+  border: 2px solid #000;
+}
+
+.profile-picture{
+  float: left;
+  margin: 5px 2px;
+  padding-right: 3px;
+}
+
+.profile-name{
+  padding-top: 10px;
+}
+
+#main-news{
+  
+  height: 600px;
+}
+
+#post-header, #post-submit, .comment-section{
+  border: 2px solid #000;
+  height: 50px;
+  overflow:auto;
+}
+
+.post-container{
+  height: 150px;
+  border:1px solid #000;
+  overflow: auto;
+
+}
+
+#insert-post{
+  height: 100px;
+  border:2px solid #333;
+  margin: 10px 10px;
+  width: 95%;
+
+}
+
+#post-button{
+  margin: 5px;
+  color:#fff;
+  background:#2E77E1;
+  box-shadow: 2px 2px 5px #000;
+  border: 2px solid #000;
+}
+
+.post-picture{
+  float: left;
+  margin: 10px 10px 0px 10px;
+  padding-right: 3px;
+}
+
+.post-body{
+  margin: 20px 10px 0px 10px;
+}
+
+#post-like, #post-comment{
+  float:left;
+  margin: 5px 0px 0px 10px;
+  padding-right: 5px;
+}
+
+#post-user-like{
+  
+  margin: 5px 0px 0px 10px;
+  padding-right: 5px;
+}
