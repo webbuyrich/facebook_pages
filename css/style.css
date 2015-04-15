@@ -55,6 +55,8 @@
   position:relative;
 }
 
+/*----------------------------------------USER SECTION-------------------------------------*/
+
 #user-menu{  
   height: 65px;
   color: #000;
@@ -86,8 +88,40 @@
   font-weight: 600;
 }
 
-#info-container{
+/*----------------------------------------ABOUT SECTION-------------------------------------*/
+
+#about-menu{  
+  height: 55px;
+  color: #000;
+  border: 1px solid #000; 
+
   
+}
+#about-menu-info{  
+   border: 1px solid #000;
+   border-top: none;
+   padding-top: 20px; 
+   overflow:auto;
+}
+
+#edit-profile{
+  background: #297BE5;
+  color:#fff;
+  box-shadow: 2px 2px 5px #000;
+  border: 2px solid #000;
+}
+
+.about-links{
+  padding-top: 15px;
+}
+
+#about-text{
+  font-size: 24px;
+  font-weight: 600;
+}
+
+#basic-info,#contact-info,#words-info, #aboutme-info{
+  font-size: 24px;
 }
 
 /*---------------NO MARGINS and NO PADDINGS -------------------------------------*/
