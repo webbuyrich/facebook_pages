@@ -12,6 +12,18 @@
     color: #fff;
 }
 
+.navbar-not-homepage{
+    padding:10px 0px 0px 0px;
+    background:#2B78E4!important;
+    color: #fff;
+}
+
+
+
+#user-name{
+  margin-top:5px!important;
+}
+
 #logo-text{
     margin-top:0px!important;
 }
@@ -22,6 +34,74 @@
     box-shadow: 2px 2px 5px #000;
     border: 2px solid #000;
 }
+
+
+#signup-button{
+    font-size:16px;
+    color:#fff;
+    box-shadow: 2px 2px 5px #000;
+    border: 2px solid #000;
+}
+
+.padding-bottom{
+  padding-bottom: 10px;
+}
+
+.padding-left{
+  padding-left: 5%;
+}
+
+.container{
+  position:relative;
+}
+
+#user-menu{  
+  height: 65px;
+  color: #000;
+  border: 1px solid #000; 
+  border-top:none;
+}
+
+.user-links{
+  padding-top: 25px;
+}
+
+#user-cover{
+  border: 1px solid #000;
+}
+
+#user-picture{
+  position:absolute;
+  top:130px;
+  left: 50px;
+  border:1px solid #000;
+  overflow: auto;
+}
+
+#user-name{
+  position:absolute;
+  top:200px;
+  left: 280px;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+#info-container{
+  
+}
+
+/*---------------NO MARGINS and NO PADDINGS -------------------------------------*/
+
+
+
+.no-right-margin{
+  margin-right: 0px;
+}
+
+.no-top-margin{
+  margin-top:0px!important;
+}
+
 .no-left-padding{
    padding-left:0px!important;
 }
@@ -30,9 +110,7 @@
    padding-right:0px!important;
 }
 
-#signup-button{
-    font-size:16px;
-    color:#fff;
-    box-shadow: 2px 2px 5px #000;
-    border: 2px solid #000;
+.no-padding{
+  padding: 0px!important;
 }
+
