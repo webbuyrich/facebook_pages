@@ -88,16 +88,16 @@
   font-weight: 600;
 }
 
-/*----------------------------------------ABOUT SECTION-------------------------------------*/
+/*----------------------------------------ABOUT and FRIEND SECTION-------------------------------------*/
 
-#about-menu{  
+#about-menu,#friends-menu{  
   height: 55px;
   color: #000;
   border: 1px solid #000; 
 
   
 }
-#about-menu-info{  
+#about-menu-info,#friends-menu-info{  
    border: 1px solid #000;
    border-top: none;
    padding-top: 20px; 
@@ -124,6 +124,33 @@
   font-size: 24px;
 }
 
+.friend-info{
+  border: 1px solid #000;
+  margin-bottom: 10px;
+  margin-right:5px;
+  
+}
+
+.friend-picture{
+  float: left;
+  margin: 5px 2px;
+}
+
+.friend-name{
+  margin-top: 25px;
+}
+
+.unfriend-button{
+  margin-top: 35px;
+  background: #DEDEDE;
+  box-shadow: 2px 2px 5px #000;
+  border: 2px solid #000;
+
+}
+
+.friend-row{
+ margin-left: 150px;
+}
 /*---------------NO MARGINS and NO PADDINGS -------------------------------------*/
 
 
