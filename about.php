@@ -20,7 +20,7 @@
                         <h1 id="logo-text">Facebook</h1> 
                     </div>
                     <div class="col-md-7 no-left-padding">                  
-                            <input type="text" class="form-control" id="inputSearch">                
+                            <input type="text" class="form-control" id="inputSearch" placeholder="Search For Users">                
                     </div>
                     <div class="col-md-2 text-right no-right-padding">
                         <h3 id="user-name">Richard</h3>
