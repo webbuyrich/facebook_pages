@@ -38,7 +38,7 @@
                 
                     <img id="user-cover" src="http://placehold.it/1066x250">
                     <img id="user-picture" src="http://placehold.it/150x150">
-                    <span id="user-name">Richard Peterson</span>
+                    <span id="user-name-picture">Richard Peterson</span>
                     <br />
                     
                         <div id="user-menu">
